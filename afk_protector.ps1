@@ -55,8 +55,6 @@ for ($i = 0; $i -lt 11; $i++) {
     
     animate
 
-    $shell.sendkeys("{F13}")
-
     if (($i % 2) -eq 0) {
         $Pos = [System.Windows.Forms.Cursor]::Position
         [System.Windows.Forms.Cursor]::Position = New-Object System.Drawing.Point((($Pos.X) + 1), $Pos.Y)
