@@ -1,7 +1,7 @@
 # AFK Protector
 <b>Simple powershell script, that keeps computer/screen awake.</b>
 <br><br>
-Prevents Microsoft Teams turning to 'Be right back', etc. by virtually clicking F13 key and moving cursor 1px left & right every minute.
+Prevents Microsoft Teams turning to 'Be right back', etc. by moving cursor 1px left & right every minute.
 <br><br>
 <b>Instruction:</b>
 <br>
