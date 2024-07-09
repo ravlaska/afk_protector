@@ -55,7 +55,7 @@ for ($i = 0; $i -lt 11; $i++) {
     
     animate
 
-    $shell.sendkeys("{F13}")
+    $shell.sendkeys("{SCROLLLOCK}")
 
     if (($i % 2) -eq 0) {
         $Pos = [System.Windows.Forms.Cursor]::Position
